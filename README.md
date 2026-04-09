@@ -1,7 +1,8 @@
 # DIO-NotebookLM
 miniguia-estudos-notebooklm
 
-Contexto e Objetivos: Inicie seu README explicando qual foi o assunto de interesse escolhido para o seu caderno temático e defina claramente quais são os seus objetivos de estudo com esse material.
+🎯 Objetivo
+Desenvolver e documentar práticas de segurança de redes em um ambiente corporativo simulado, com foco em proteção contra ataques, segmentação de tráfego e monitoramento.
 
 Curadoria de Fontes: Liste e disponibilize (ou insira os links) de 3 a 5 fontes abertas em texto ou PDF que você selecionou e fez o upload no NotebookLM.
 
