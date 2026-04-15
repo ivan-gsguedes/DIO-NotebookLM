@@ -56,6 +56,7 @@ Essa cultura de gratificação instantânea ignora a necessidade de uma reserva 
 
 Em resumo, o sucesso financeiro depende menos da inteligência técnica e muito mais do comportamento e autoconhecimento para evitar decisões guiadas por impulsos momentâneos
 
+
 Pergunta: Como montar uma reserva de emergência?
 
 Resposta: Montar uma reserva de emergência é um passo fundamental para garantir a segurança financeira e a paz de espírito diante de imprevistos, como problemas de saúde, reparos urgentes ou a perda de um emprego.
@@ -63,19 +64,23 @@ Resposta: Montar uma reserva de emergência é um passo fundamental para garanti
 De acordo com os fontes, este processo deve ser estruturado da seguinte forma:
 
 1. Realize um diagnóstico financeiro (3) (1)
+
 O primeiro passo é saber exatamente para onde o seu dinheiro está indo. Faça uma auditoria financeira completa, listando todas as suas fontes de renda e despesas (fixas, variáveis e até anuais, como seguros e impostos)
 É essencial registrar todas as movimentações financeiras diariamente para identificar sua real situação econômica e evitar dívidas
 
-2. Calcule o valor da reserva (1)
+3. Calcule o valor da reserva (1)
+
 A reserva deve ser calculada com base no seu custo de vida mensal. O ideal é que ela cubra de três a seis meses das suas despesas essenciais
 Por exemplo, se o seu custo de vida é de R3.000,00,suametafinaldeveseracumularentreR 9.000,00 e R$ 18.000,00
 
-3. Estabeleça o hábito de poupar (1) (2)
+5. Estabeleça o hábito de poupar (1) (2)
+
 Para construir a reserva, você deve gastar menos do que ganha
 Uma estratégia eficaz é "remunerar a si mesmo": assim que o salário cair na conta, separe uma parcela (começando com 5%, por exemplo) para a reserva
 Automatizar as economias através de transferências programadas ajuda a garantir a regularidade sem esforço consciente
 
-4. Escolha o investimento correto (1)
+7. Escolha o investimento correto (1)
+
 O dinheiro da reserva não deve ficar parado em qualquer lugar. Ele precisa estar em ativos que ofereçam:
 Baixo risco: Segurança para o capital
 
@@ -84,14 +89,17 @@ Liquidez diária: Possibilidade de retirar o dinheiro imediatamente quando neces
 Rendimento: Opções como o Tesouro Selic ou CDBs de liquidez diária são recomendadas por renderem mais do que a poupança tradicional
 
 5. Envolva a família e revise periodicamente (1)
+
 Se você vive com outras pessoas, é importante envolver a família no processo para que todos contribuam para o objetivo comum. Além disso, realize revisões a cada seis meses para ajustar o valor da reserva caso seu padrão de vida ou situação profissional mudem
 
 Dicas extras para acelerar o processo: (1) (6)
+
 Aproveite benefícios: Use cashback e programas de fidelidade para complementar suas economias
 
 Mantenha o foco: A reserva deve ser usada exclusivamente para emergências reais; para outras oportunidades, como viagens ou investimentos vantajosos, considere criar um "fundo de oportunidades" separado
 
 Evite o crédito caro: Ter uma reserva impede que você precise recorrer a empréstimos com juros abusivos ou ao rotativo do cartão de crédito em momentos de crise
+
 
 Pergunta: Quais são as principais armadilhas ao usar o cartão de crédito?
 
@@ -119,4 +127,5 @@ Para evitar isso, as fontes sugerem o uso de débito automático ou lembretes (6
 Ignorar benefícios e programas de fidelidade: Muitos usuários pagam anuidade, mas não utilizam os programas de milhas, cashback ou descontos oferecidos, perdendo oportunidades valiosas de economizar ou recuperar parte dos gastos (6)
 
 Para evitar essas armadilhas, o ideal é manter um planejamento financeiro rígido, registrar todas as despesas diariamente e sempre priorizar o pagamento integral da fatura
+
 
