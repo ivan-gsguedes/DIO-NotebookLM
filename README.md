@@ -5,9 +5,14 @@ O objetivo desse projeto e abordar a importância da gestão financeira pessoal,
 Lista das fontes (Links) utilizadas no NotebookLM:
 
 https://www.spcbrasil.com.br/blog/reserva-de-emergencia
+
 https://www.bv.com.br/bv-inspira/orientacao-financeira/poupar-ou-investir
+
 https://matchmoney.com.br/blog/noticias/gestao-financeira-5-principais-erros/
+
 https://mepoupe.com/dicas-de-riqueza/7-erros-comuns-na-gestao-financeira-pessoal/
+
 https://blog.daycoval.com.br/erros-de-investidores-iniciantes/
+
 https://obomacordo.com/blog/10-erros-comuns-ao-usar-cartao-de-credito-e-como-evita-los/
 
