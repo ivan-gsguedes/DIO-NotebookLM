@@ -1,14 +1,13 @@
-# DIO-NotebookLM
-miniguia-estudos-notebooklm
+Guia Prático para Saúde Financeira e Gestão de Investimentos
 
-🎯 Objetivo
-Desenvolver e documentar práticas de segurança de redes em um ambiente corporativo simulado, com foco em proteção contra ataques, segmentação de tráfego e monitoramento.
+O objetivo desse projeto e abordar a importância da gestão financeira pessoal, destacando como a organização e o planejamento são fundamentais para evitar o endividamento e alcançar estabilidade. Os textos detalham erros fatais no uso do cartão de crédito, como o pagamento mínimo e o uso do limite como renda, além de alertarem sobre falhas comuns de investidores iniciantes. Um ponto importante é a construção de uma reserva de emergência, essencial para enfrentar imprevistos sem comprometer a saúde mental ou o orçamento. Os artigos também diferenciam os conceitos de poupar e investir, enfatizando que guardar dinheiro é a base para fazê-lo render futuramente. No geral, o material serve como um guia educativo para transformar a relação com o dinheiro, promovendo o consumo consciente e o foco na liberdade financeira de longo prazo.
 
-Curadoria de Fontes: Liste e disponibilize (ou insira os links) de 3 a 5 fontes abertas em texto ou PDF que você selecionou e fez o upload no NotebookLM.
+Lista das fontes (Links) utilizadas no NotebookLM:
 
-Engenharia de Prompts e "Cicatrizes": Documente as perguntas estratégicas que você elaborou e as variações de prompts que testou. Dica de ouro: registre as respostas obtidas, suas referências e também as dificuldades que encontrou para extrair a melhor resposta da IA (troubleshooting). O mercado valoriza profissionais que mostram o raciocínio por trás dos resultados!
+https://www.spcbrasil.com.br/blog/reserva-de-emergencia
+https://www.bv.com.br/bv-inspira/orientacao-financeira/poupar-ou-investir
+https://matchmoney.com.br/blog/noticias/gestao-financeira-5-principais-erros/
+https://mepoupe.com/dicas-de-riqueza/7-erros-comuns-na-gestao-financeira-pessoal/
+https://blog.daycoval.com.br/erros-de-investidores-iniciantes/
+https://obomacordo.com/blog/10-erros-comuns-ao-usar-cartao-de-credito-e-como-evita-los/
 
-Miniguia de Estudo (Entrega Final): Apresente o resultado final consolidado, que deve conter:
-Resumos estruturados do assunto;
-Um glossário com os principais conceitos aprendidos;
-Um conjunto de prompts reutilizáveis que possam apoiar futuras revisões sobre o tema.
