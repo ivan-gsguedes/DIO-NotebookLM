@@ -16,3 +16,5 @@ https://blog.daycoval.com.br/erros-de-investidores-iniciantes/
 
 https://obomacordo.com/blog/10-erros-comuns-ao-usar-cartao-de-credito-e-como-evita-los/
 
+[Padrões emocionais e cognitivos  no endividamento financeiro.pdf](https://github.com/user-attachments/files/26731850/Padroes.emocionais.e.cognitivos.no.endividamento.financeiro.pdf)
+
