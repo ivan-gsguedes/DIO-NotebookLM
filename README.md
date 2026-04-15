@@ -240,9 +240,14 @@ Vieses Cognitivos: Ilusões ou distorções de pensamento que levam a decisões 
 Aqui estão alguns prompts que possam ser utilizados:
 
 Qual a diferença prática entre poupar e investir dinheiro?
+
 Como o orgulho e as emoções podem causar dívidas graves?
+
 Quais investimentos rendem mais do que a poupança para reserva?
+
 Quais são as melhores opções de investimento para iniciantes?
+
 Qual a diferença real entre poupar e investir o dinheiro?
+
 Como lidar com a ansiedade para evitar compras impulsivas?
 
