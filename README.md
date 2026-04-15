@@ -25,6 +25,7 @@ Por que as pessoas cometem erros financeiros com frequência?
 As pessoas cometem erros financeiros com frequência devido a uma combinação de falta de conhecimento técnico (analfabetismo financeiro), falhas de planejamento e, principalmente, fatores emocionais e psicológicos que nublam a racionalidade. De acordo com as fontes, os principais motivos para a recorrência desses erros são:
 
 1. Influência das Emoções e Padrões Cognitivos (7)
+
 Decisões financeiras raramente são puramente racionais; elas são profundamente influenciadas por estados emocionais
 
 Desregulação Emocional: Muitas pessoas utilizam o consumo como uma válvula de escape para lidar com tristeza, ansiedade ou euforia, buscando alívio imediato em compras impulsivas
@@ -34,6 +35,7 @@ O Papel do Orgulho: O orgulho impede que indivíduos admitam dificuldades, peça
 Autoafirmação e Status: O dinheiro é frequentemente usado como instrumento de autoafirmação para preencher vazios existenciais ou para impressionar terceiros, o que favorece comportamentos de comparação social e gastos desnecessários
 
 2. Falta de Disciplina e Organização (7) (3)
+
 Muitas pessoas sabem o que deve ser feito, mas não conseguem aplicar a teoria no dia a dia
 
 Ausência de Registro: Cerca de 46% dos brasileiros não controlam seu orçamento por falta de disciplina, tempo e organização
@@ -42,6 +44,7 @@ Não anotar as movimentações impede que se saiba para onde o dinheiro está in
 Comprometer o Salário Antecipadamente: Existe o hábito comum de realizar compras a prazo ou promessas de pagamento antes mesmo de ter o dinheiro em mãos, o que gera um ciclo de endividamento 
 
 3. Equívocos na Percepção de Crédito e Investimentos (6) (5)
+
 Confusão entre Crédito e Renda: Um erro fatal é enxergar o limite do cartão de crédito como uma extensão do salário ou "dinheiro extra", em vez de um empréstimo que precisa ser pago
 
 Efeito "Sardinha" nos Investimentos: Investidores iniciantes costumam seguir ondas e dicas de influenciadores sem análise técnica, tratando o mercado como um jogo de azar em busca de lucros rápidos, em vez de focar no longo prazo
