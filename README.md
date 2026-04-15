@@ -129,3 +129,120 @@ Ignorar benefícios e programas de fidelidade: Muitos usuários pagam anuidade, 
 Para evitar essas armadilhas, o ideal é manter um planejamento financeiro rígido, registrar todas as despesas diariamente e sempre priorizar o pagamento integral da fatura
 
 
+Miniguia de estudo:
+
+O assunto da gestão financeira pessoal pode ser resumido em cinco partes principais: erros de planejamento, armadilhas de crédito, falhas em investimentos, padrões psicológicos e a construção da reserva de emergência.
+
+1. Erros de Gestão e Planejamento Financeiro (2) (3)
+
+A falta de controle é comum; cerca de 46% dos brasileiros não monitoram seu orçamento devido à falta de disciplina e organização
+
+Gastar mais do que ganha: É a causa mais direta do endividamento e da inadimplência
+
+Comprometer o salário antecipadamente: Realizar compras a prazo ou promessas de pagamento antes de ter o dinheiro em mãos desregula o orçamento a longo prazo
+
+Ausência de registros: Não anotar as movimentações diárias impede a clareza sobre para onde o dinheiro está indo e dificulta o alcance de metas
+
+Falta de prioridades: Gastar com lazer ou itens supérfluos antes de quitar contas essenciais (como energia e moradia) gera desequilíbrio financeiro
+
+2. Armadilhas no Uso do Cartão de Crédito (2) (6)
+
+O cartão deve ser um aliado, mas frequentemente se torna uma armadilha por falta de conhecimento técnico
+
+Pagamento Mínimo: Ao não quitar o valor integral, o saldo restante sofre a incidência de juros rotativos, os mais caros do mercado, criando uma "bola de neve"
+
+Limite como Renda: Enxergar o limite disponível como extensão do salário em vez de um empréstimo que deve ser pago
+
+Saque Rotativo: Retirar dinheiro vivo usando o cartão acarreta juros compostos altíssimos e taxas imediatas
+
+Negligência com a Fatura: Não revisar os gastos impede a identificação de erros, fraudes ou o controle do montante acumulado
+
+Emprestar o cartão: O titular é o único responsável legal pela dívida, assumindo o risco de inadimplência de terceiros
+
+3. Equívocos Comuns em Investimentos (2) (5)
+
+Investir requer estratégia e paciência, distanciando-se de comportamentos impulsivos
+
+Efeito "Sardinha": Seguir dicas de influenciadores ou amigos sem analisar os fundamentos técnicos ou a saúde financeira do ativo
+
+Especulação e Apostas: Tratar o mercado de ações como um jogo de azar em busca de lucros rápidos, ignorando que o investimento é um processo de longo prazo
+
+Falta de Diversificação: Concentrar todo o capital em um único ativo ou setor, aumentando a exposição a riscos e crises
+
+4. Padrões Emocionais e Cognitivos no Endividamento (7)
+
+O sucesso financeiro depende mais do comportamento do que da inteligência técnica
+
+Desregulação Emocional: Uso do consumo como válvula de escape para lidar com sentimentos como tristeza, ansiedade ou euforia
+
+Adiantamento de Sonhos: Antecipar conquistas (carros, viagens) através de dívidas futuras em vez de poupar o capital previamente
+
+Autoafirmação e Status: Comprar itens desnecessários para preencher vazios existenciais ou para impressionar pessoas, gerando comparações sociais nocivas
+
+Orgulho: Dificuldade em admitir erros financeiros, em pedir ajuda ou em reduzir o padrão de vida para ajustar as contas
+
+5. A Solução: Reserva de Emergência (1) (7)
+
+A reserva é o valor mantido exclusivamente para imprevistos (saúde, reparos, desemprego)
+
+Cálculo: Deve cobrir de três a seis meses do custo de vida essencial
+
+Onde Investir: Em ativos de baixo risco e liquidez diária, como o Tesouro Selic ou CDBs de bancos sólidos, que rendem mais que a poupança
+
+Benefícios: Proporciona paz de espírito, reduz o estresse e evita a necessidade de recorrer a créditos caros em momentos de crise
+
+
+Glossário:
+
+Gestão e Planejamento
+Auditoria Financeira: Análise detalhada de todas as fontes de renda e despesas, incluindo gastos anuais como impostos e seguros, para entender a real situação econômica
+
+Custo de Vida: Soma de todas as despesas mensais essenciais para a manutenção de um indivíduo ou família
+
+Educação Financeira: Processo de adquirir conhecimento técnico para tomar decisões adequadas sobre recursos financeiros, considerando aspectos econômicos e psicológicos
+
+Poupar: Ato de acumular dinheiro para uso futuro, o que exige mudança de hábitos, redução de gastos e controle de impulsos
+
+Reserva de Emergência: Valor mantido separadamente para cobrir imprevistos (saúde, desemprego), devendo idealmente cobrir de três a seis meses das despesas essenciais
+
+Crédito e Dívidas
+Anuidade: Taxa de manutenção cobrada por algumas operadoras de cartão de crédito que pode ser negociada ou isenta
+
+Juros Rotativos: Taxas extremamente altas aplicadas sobre o saldo devedor quando o consumidor paga apenas o valor mínimo da fatura ou realiza saques em dinheiro no crédito
+
+Nome Negativado: Consequência do atraso no pagamento de dívidas, que impacta o score de crédito e dificulta novos empréstimos
+
+Score de Crédito: Pontuação que reflete o histórico financeiro do consumidor e sua confiabilidade para o mercado
+
+Investimentos
+Diversificação: Estratégia de distribuir os recursos em diferentes ativos ou setores para reduzir riscos e proteger o capital contra crises
+
+Especulação: Prática de investir em ativos com alto risco e incerteza, buscando ganhos elevados e rápidos, sem uma análise técnica sólida
+
+Investidor "Sardinha": Termo usado para descrever quem entra no mercado sem análise própria, apenas seguindo dicas de influenciadores ou modismos
+
+Investir: Aplicar o dinheiro poupado para que ele gere rendimentos futuros através de juros compostos, focando no longo prazo
+
+Liquidez: Capacidade de resgatar o dinheiro de um investimento de forma rápida e acessível em caso de necessidade
+
+Psicologia Financeira
+Adiantamento de Sonhos: Padrão comportamental de antecipar compras (carros, viagens) através de dívidas e financiamentos antes de possuir o capital necessário
+
+Autoafirmação (Uso do Dinheiro): Utilizar o consumo para preencher vazios existenciais, buscar status social ou impressionar terceiros
+
+Desregulação Emocional: Dificuldade em lidar com emoções intensas (ansiedade, tristeza, euforia), levando ao uso do consumo como válvula de escape e alívio imediato
+
+Orgulho Financeiro: Resistência em admitir erros, pedir ajuda ou reduzir o padrão de vida para ajustar as contas às possibilidades reais
+
+Vieses Cognitivos: Ilusões ou distorções de pensamento que levam a decisões financeiras baseadas em emoções momentâneas em vez de lógica
+
+
+Aqui estão alguns prompts que possam ser utilizados:
+
+Qual a diferença prática entre poupar e investir dinheiro?
+Como o orgulho e as emoções podem causar dívidas graves?
+Quais investimentos rendem mais do que a poupança para reserva?
+Quais são as melhores opções de investimento para iniciantes?
+Qual a diferença real entre poupar e investir o dinheiro?
+Como lidar com a ansiedade para evitar compras impulsivas?
+
